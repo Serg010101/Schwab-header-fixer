@@ -1,5 +1,3 @@
-⸻
-
 Schwab TRN Header Fixer
 
 A small utility script that combines the first 3 header rows of Schwab TRN files into a single clean header row.
