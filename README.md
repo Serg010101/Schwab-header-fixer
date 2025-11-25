@@ -8,8 +8,11 @@ Useful for correcting malformed custodial files so they can be loaded into SQL, 
 🚀 What This Script Does
 
 Schwab TRN files often contain:
+
 	•	H1 row (file metadata)
+	
 	•	H2 row (grouping labels)
+	
 	•	H3 row (actual column titles)
 
 Because these rows are split separately, the column names become unclear.
