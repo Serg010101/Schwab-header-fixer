@@ -18,9 +18,13 @@ Schwab TRN files often contain:
 Because these rows are split separately, the column names become unclear.
 
 This tool:
+
 	1.	Reads the TRN file
+	
 	2.	Merges row H1 + H2 + H3 into a single header per column
+	
 	3.	Outputs a new TRN-like file with unified headers
+	
 	4.	Leaves all D1 data rows untouched
 
 ⸻
